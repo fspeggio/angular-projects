@@ -1,8 +1,8 @@
 {
-    "recommendations": [
-        "johnpapa.angular2",
-        "eamodio.gitlens",
-        "wcwhitehead.bootstrap-3-snippets",
-        "esbenp.prettier-vscode"
-    ]
+  "recommendations": [
+    "johnpapa.angular2",
+    "eamodio.gitlens",
+    "wcwhitehead.bootstrap-3-snippets",
+    "esbenp.prettier-vscode"
+  ]
 }
